@@ -1,0 +1,21 @@
+# Secrets
+.env
+*.pem
+*.key
+credentials.json
+
+# Temporary files
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# System files
+.DS_Store
+
+# Terraform state (later AWS phase)
+*.tfstate
+*.tfstate.backup

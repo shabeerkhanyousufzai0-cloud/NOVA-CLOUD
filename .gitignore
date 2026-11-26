@@ -19,3 +19,4 @@ venv/
 # Terraform state (later AWS phase)
 *.tfstate
 *.tfstate.backup
+apps/moodle/.env

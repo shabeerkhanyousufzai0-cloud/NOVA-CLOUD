@@ -20,3 +20,4 @@ venv/
 *.tfstate
 *.tfstate.backup
 apps/moodle/.env
+apps/student-system/students.json
